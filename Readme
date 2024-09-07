@@ -1,3 +1,18 @@
-#Movie Review Analysis -- Sentiment Analysis
+# Movie Review Analysis -- Sentiment Analysis
+
+This project is part of the NSDC Data Science Projects, where the goal is to classify movie reviews as positive or negative using Sentiment Analysis techniques.
+
+Project Overview
+In this project, we utilize:
+
+Natural Language Processing (NLP) to process and understand text data.
+Machine Learning to classify the sentiment of movie reviews.
+Google Colab as the environment for building and training models.
+
+Key Features
+Preprocessing movie review data.
+Building a sentiment classification model.
+Visualizing model performance.
+Deploying the model for real-world use.
 
 
